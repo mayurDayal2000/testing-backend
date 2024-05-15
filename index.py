@@ -1,17 +1,109 @@
 # This function adds two numbers
 def add(x, y):
+    """    Save the processed files map to a JSON file.
+
+    Function parameters should be documented in the ``Args`` section. The name
+    of each parameter is required. The type and description of each parameter
+    is optional, but should be included if not obvious.
+
+    @type dictionary: dict
+    @param dictionary: The processed files map.
+    @rtype: bool
+    @return: True if successful, False otherwise.
+    @return: The return type is optional and may be specified at the beginning of
+    @return: the ``Returns`` section followed by a colon.
+    @return: The ``Returns`` section may span multiple lines and paragraphs.
+    @return: Following lines should be indented to match the first line.
+    @return: The ``Returns`` section supports any reStructuredText formatting,
+    @return: including literal blocks::
+        
+                {
+                    'param1': param1,
+                    'param2': param2
+                }
+    """
+
     return x + y
 
 # This function subtracts two numbers
 def subtract(x, y):
+    """    Save the processed files map to a JSON file.
+
+    Function parameters should be documented in the ``Args`` section. The name
+    of each parameter is required. The type and description of each parameter
+    is optional, but should be included if not obvious.
+
+    @type dictionary: dict
+    @param dictionary: The processed files map.
+    @rtype: bool
+    @return: True if successful, False otherwise.
+    @return: The return type is optional and may be specified at the beginning of
+    @return: the ``Returns`` section followed by a colon.
+    @return: The ``Returns`` section may span multiple lines and paragraphs.
+    @return: Following lines should be indented to match the first line.
+    @return: The ``Returns`` section supports any reStructuredText formatting,
+    @return: including literal blocks::
+        
+                {
+                    'param1': param1,
+                    'param2': param2
+                }
+    """
+
     return x - y
 
 # This function multiplies two numbers
 def multiply(x, y):
+    """    Save the processed files map to a JSON file.
+
+    Function parameters should be documented in the ``Args`` section. The name
+    of each parameter is required. The type and description of each parameter
+    is optional, but should be included if not obvious.
+
+    @type dictionary: dict
+    @param dictionary: The processed files map.
+    @rtype: bool
+    @return: True if successful, False otherwise.
+    @return: The return type is optional and may be specified at the beginning of
+    @return: the ``Returns`` section followed by a colon.
+    @return: The ``Returns`` section may span multiple lines and paragraphs.
+    @return: Following lines should be indented to match the first line.
+    @return: The ``Returns`` section supports any reStructuredText formatting,
+    @return: including literal blocks::
+        
+                {
+                    'param1': param1,
+                    'param2': param2
+                }
+    """
+
     return x * y
 
 # This function divides two numbers
 def divide(x, y):
+    """    Save the processed files map to a JSON file.
+
+    Function parameters should be documented in the ``Args`` section. The name
+    of each parameter is required. The type and description of each parameter
+    is optional, but should be included if not obvious.
+
+    @type dictionary: dict
+    @param dictionary: The processed files map.
+    @rtype: bool
+    @return: True if successful, False otherwise.
+    @return: The return type is optional and may be specified at the beginning of
+    @return: the ``Returns`` section followed by a colon.
+    @return: The ``Returns`` section may span multiple lines and paragraphs.
+    @return: Following lines should be indented to match the first line.
+    @return: The ``Returns`` section supports any reStructuredText formatting,
+    @return: including literal blocks::
+        
+                {
+                    'param1': param1,
+                    'param2': param2
+                }
+    """
+
     return x / y
 
 
