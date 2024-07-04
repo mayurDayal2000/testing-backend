@@ -12,6 +12,11 @@ class Rectangle {
         this.height = height;
     }
 
+    /**
+     * Calculates the area of a shape by multiplying its width and height.
+     * 
+     * @returns {number} The calculated area of the shape.
+     */
     getArea(): number {
         
         return this.width * this.height;
